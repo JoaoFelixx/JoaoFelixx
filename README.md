@@ -1,4 +1,4 @@
-# João Carlos Silva Félix Cabral
+# João Carlos Félix
 
 ### Técnico Em Informática Para Internet
 
