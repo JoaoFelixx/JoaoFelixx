@@ -7,4 +7,4 @@
 
  _Programção_  😍
  
-💬 &nbsp; Portfólio: https://joaofelixx.github.io/Meu_Portifolio/
+💬 &nbsp; Portfólio: https://joaofelixx.github.io/meu_portifolio/
