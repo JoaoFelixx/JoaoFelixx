@@ -19,7 +19,7 @@
 </p>
 
 
-💬 &nbsp; Portfólio: https://joaofelixx.github.io/meu_portifolio/
+💬 &nbsp; Portfólio: https://joaofelixx.github.io/my-portfolio/
 
 ### Contact me
 
