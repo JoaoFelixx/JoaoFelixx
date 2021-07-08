@@ -50,6 +50,5 @@
 💬 &nbsp; Portfólio: https://joaofelixx.github.io/my-portfolio/
 
 ### Contact me
-
-[![Gmail Badge](https://img.shields.io/badge/-joaosilva16387@gmail.com-eb415b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaosilva16387@gmail.com)](mailto:joaosilva16387@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Félix%20-4a72e0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felix-devweb/)](https://www.linkedin.com/in/felix-devweb/) 
+ <a href = "mailto: joaosilva16387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felix-devweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
