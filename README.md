@@ -2,7 +2,7 @@
 
 # I'm João Carlos Félix
 
-### Web Developer Full-Stack
+### Developer `Back-End Júnior` 18 years old
 
 ## 🚀 My Skills
 
@@ -42,13 +42,25 @@
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>     </code>
     
   <code>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="MongoDB"/>     </code>
+    
+  <code>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="MongoDB"/>     </code>
 
 </p>
 
 
-💬 &nbsp; Portfólio: https://joaofelixx.github.io/my-portfolio/
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JoaoFelixx&show_icons=true&locale=en&theme=radical" alt="Joao Felix" /</p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoFelixx&show_icons=true&locale=en&layout=compact&theme=radical" alt="Joao Felix" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoFelixx&theme=radical" alt="Joao Felix" /></p>
+
+
+
+💬 Portfólio: https://joaofelixx.github.io/my-portfolio/
 
 ### Contact me
  <a href = "mailto: joaosilva16387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felix-devweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+ 
