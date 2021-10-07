@@ -57,7 +57,7 @@
 
 
 
-💬 Portfólio: https://joaofelixx.github.io/my-portfolio/
+💬 Portfólio: https://felixdeveloper.netlify.app/
 
 ### Contact me
  <a href = "mailto: joaosilva16387@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
