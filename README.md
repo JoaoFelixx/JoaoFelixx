@@ -2,7 +2,7 @@
 
 # I'm João Carlos Félix
 
-### Developer `Back-End Júnior` 18 years old
+### Developer `Full-Stack Júnior` 18 years old
 
 ## 🚀 My Skills
 
