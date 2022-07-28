@@ -1,8 +1,8 @@
 <img src="https://cdn.pixabay.com/photo/2016/10/16/16/33/dual-screen-1745705_960_720.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Desktop">
 
-# I'm João Carlos Félix
+# I'm João Félix
 
-### Developer `Full-Stack Júnior` 19 years old
+### `Full-Stack Developer` 19 years old 😎🔥
 
 ## 🚀 My Skills
 
@@ -25,7 +25,8 @@
   </code>
     
   <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>           </code>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>           
+  </code>
   
   <code>
      <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/>       </code>
@@ -39,17 +40,23 @@
   </code>
  
   <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>     </code>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>     
+  </code>
     
   <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="MongoDB"/>     </code>
-    
-  <code>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="MongoDB"/>     </code>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/>     
+  </code>
 
+  <code>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Express"/>     
+  </code>
+
+  <code>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="MongoDB"/>     
+  </code>
 </p>
 
-💬 Portfólio: https://felixdeveloper.netlify.app/
+💬 Portfolio: https://felixdeveloper.netlify.app/
 
 ### Contact me
  <a href = "mailto: felixxdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
